@@ -1,4 +1,7 @@
-{
-  "IPv4": "10.64.1",
-  "NetworkName": "GCI Wi-Fi"
-}
+[
+  {
+    "IPv4": "10.64.1",
+    "NetworkName": "GCI Wi-Fi",
+    "HostFileString": "10.64.0.70      git.grapecity.in        # x client host"
+  }
+]
