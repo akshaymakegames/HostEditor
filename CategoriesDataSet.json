@@ -29,7 +29,7 @@
 	"DataSource": {
 		"Name": "NorthwindCategories",
 		"ConnectionProperties": {
-			"ConnectString": "jsondoc=https://raw.githubusercontent.com/akshaymakegames/PersonalTools/main/Categories.Json",
+			"ConnectString": "jsondoc=https://raw.githubusercontent.com/akshaymakegames/PersonalTools/main/Categories.Json;schemadata={\"$id\":\"http://example.com/example.json\",\"type\":\"object\",\"definitions\":{},\"$schema\":\"http://json-schema.org/draft-07/schema#\",\"properties\":{\"Data\":{\"$id\":\"/properties/Data\",\"type\":\"array\",\"items\":{\"$id\":\"/properties/Data/items\",\"type\":\"object\",\"properties\":{\"CategoryId\":{\"$id\":\"/properties/Data/items/properties/CategoryId\",\"type\":\"integer\",\"title\":\"The CategoryId Schema\",\"default\":0,\"examples\":[123]},\"CategoryName\":{\"$id\":\"/properties/Data/items/properties/CategoryName\",\"type\":\"string\",\"title\":\"The CategoryName Schema\",\"default\":0,\"examples\":[\"abc\"]},\"Description\":{\"$id\":\"/properties/Data/items/properties/Description\",\"type\":\"string\",\"title\":\"The Description Schema\",\"default\":0,\"examples\":[\"abc\"]},}}}}}",
 			"DataProvider": "JSON"
 		}
 	}
