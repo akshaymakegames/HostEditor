@@ -2,7 +2,7 @@
 	"DataSet": {
 		"Name": "Categories",
 		"Query": {
-			"CommandText": "$.Data[*]",
+			"CommandText": "$.[*]",
 			"DataSourceName": "NorthwindCategories"
 		},
 		"Fields": [
