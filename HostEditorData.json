@@ -1,0 +1,12 @@
+[
+  {
+    "NetworkData": {
+      "Name": "Vijay 4G",
+      "BSSID": "30:b1:b5:cb:b6:78"
+    },
+    "Entries": [
+      "       0:00:00:00     test.com              # x client host",
+      "       0:00:00:01     test1.com             # x1 client host"
+    ]
+  }
+]
